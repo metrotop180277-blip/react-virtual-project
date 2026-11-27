@@ -1,0 +1,27 @@
+header {
+    background-color: #18181B;
+    height: 114px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 120px;
+}
+
+.header-button {
+    background-color: #18181B;
+    width: 126px;
+    height: 52px;
+    color: white;
+    border: none;
+}
+
+.input-wrapper {
+    margin-right: 120px;
+    padding: 3px;
+    background: linear-gradient(10deg, #0CBAF1, #E95CE9);
+    width: 126px;
+    height: 52px;
+}

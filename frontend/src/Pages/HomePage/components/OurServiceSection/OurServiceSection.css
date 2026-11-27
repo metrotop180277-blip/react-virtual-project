@@ -1,0 +1,150 @@
+.OurServiceSection {
+    width: 100%;
+    height: 908px;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
+
+.glav-OurServiceSection-text {
+    width: 1158px;
+    height: 115px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.glav-OurServiceSection-text-p {
+    color: #D1D1D1;
+    width: 625px;
+    font-size: 16px;
+}
+
+.OurServiceSection-text-p {
+    color: #E95CE9;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.OurServiceSection-text-h1 {
+    color: white;
+    font-size: 48px;
+}
+
+.OurServiceSection-cards {
+    height: 923px;
+    width: 1022px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    position: relative;
+    left: -70px;
+}
+
+.OurServiceSection-card {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+}
+
+.OurServiceSection-card-image {
+    margin-top: 38px;
+    margin-left: 32px;
+    margin-bottom: 60px;
+}
+
+.OurServiceSection-card-h1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.OurServiceSection-card-p {
+    color: #B0B0B2;
+    font-size: 14px;
+}
+
+.OurServiceSection-card-text {
+    width: 291px;
+    height: 94px;
+    margin-left: 32px;
+}
+
+.OurServiceSection-card1 {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+    margin-top: 57px;
+}
+
+.OurServiceSection-card2 {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+    margin-top: 135px;
+}
+.OurServiceSection-card3 {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+    margin-top: -163px;
+}
+.OurServiceSection-card4 {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+    margin-top: -105px;
+}
+.OurServiceSection-card5 {
+    width: 379px;
+    height: 291px;
+    background-color: #25253299;
+    border: 1px solid #ffffff80;
+    margin-top: -25px;
+}
+
+.OurServiceSection-card4-text {
+    margin-left: 30px;
+    width: 308px;
+    height: 56px;
+}
+
+.OurServiceSection-card4-text-h1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.OurServiceSection-card4-text-p {
+    color: #B0B0B2;
+    width: 308px;
+}
+
+.OurServiceSection-card4-text-button {
+    width: 172px;
+    height: 45px;
+    background-color: rgb(33, 36, 41);
+    border: none;
+    color: white;
+    font-size: 14px;
+}
+
+.input-glav-section1 {
+    background: linear-gradient(10deg, #0CBAF1, #E95CE9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 177px;
+    height: 50px;
+    z-index: 1;
+    margin-left: 71px;
+    position: relative;
+    top: -17px;
+}

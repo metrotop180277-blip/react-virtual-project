@@ -1,0 +1,159 @@
+.glav-section {
+    height: 996px;
+    width: 100%;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    gap: 100px;
+}
+
+.glav-section-image {
+    position: absolute;
+    top: 100px;
+}
+
+.glav-section-text {
+    width: 540px;
+    height: 316px;
+    padding-top: 87px;
+}
+
+.glav-section-text-h1 {
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+}
+
+.glav-section-text-p {
+    color: #D1D1D1;
+    width: 446px;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+.glav-section-text-button {
+    width: 206px;
+    height: 50px;
+    border: none;
+    font-size: 14px;
+    color: white;
+    background-color: transparent;
+}
+
+.input-glav-section {
+    background: linear-gradient(10deg, #0CBAF1, #E95CE9);
+    width: 206px;
+    height: 50px;
+    margin-bottom: 42px;
+    z-index: 1;
+}
+
+.glav-section-text-profiles-glav-image {
+    width: 549px;
+    display: flex;
+    height: 128px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.glav-section-text-profiles-image {
+    width: 277px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.glav-section-text-profiles {
+    width: 127px;
+    height: 50px;
+    position: relative;
+}
+
+.glav-section-text-profile1 {
+    position: absolute;
+    left: 40px;
+}
+
+.glav-section-text-profile2 {
+    position: absolute;
+    left: 80px;
+}
+
+.glav-section-text-profiles-image-text {
+    position: relative;
+    width: 132px;
+    height: 28px;
+    color: white;
+}
+
+.glav-section-text-profiles-image-text-image {
+    position: absolute;
+    top: 15px;
+    left: -10px;
+}
+
+.glav-section-glav-image {
+    width: 526px;
+    height: 626px;
+    margin-top: 13px;
+    position: relative;
+}
+
+.glav-section-glav-image1 {
+    position: absolute;
+    left: -100px;
+}
+
+.glav-section-glav-image2 {
+    position: absolute;
+    z-index: 10;
+    left: 150px;
+}
+
+.qwerty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-bottom: 120px;
+}
+
+.qwerty-cards {
+    width: 1460px;
+    height: 307px;
+    background-color: #252532;
+    position: absolute;
+    bottom: 50px;
+    left: 300px auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.qwerty-card {
+    width: 324px;
+    height: 262px;
+    margin-top: 42px;
+}
+
+.qwerty-card-image {
+    margin-bottom: 42px;
+}
+
+.qwerty-card-text {
+    width: 324px;
+    height: 150px;
+}
+
+.qwerty-card-h1 {
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: white;
+}
+
+.qwerty-card-p {
+    color: #B0B0B2;
+    font-size: 14px;
+
+}

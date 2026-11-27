@@ -1,0 +1,55 @@
+.WhyChooseSection {
+    margin-left: 120px;
+    margin-right: 17px;
+    margin-bottom: 150px;
+    display: flex;
+    align-items: center;
+    gap: 145px;
+}
+
+.WhyChooseSection-text {
+    width: 548px;
+    height: 515px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.WhyChooseSection-pod-text {
+    width: 546px;
+    height: 149px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.WhyChooseSection-pod-text-h3 {
+    color: #E95CE9;
+    font-size: 16px;
+}
+
+.WhyChooseSection-pod-text-h1 {
+    color: white;
+    font-size: 48px;
+}
+
+.WhyChooseSection-details {
+    width: 548px;
+    height: 334px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    justify-content: center;
+}
+
+.WhyChooseSection-details-summary {
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    margin-bottom: 24px;
+}
+
+.WhyChooseSection-details-p {
+    color: #D1D1D1;
+    font-size: 16px;
+}
